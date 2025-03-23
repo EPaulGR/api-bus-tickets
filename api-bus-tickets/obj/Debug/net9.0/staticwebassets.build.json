@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "HFI0mrgOOiYgnWiHaLKD8tDrtq4bGVzH6JqwESpfDms=",
+  "Source": "api-bus-tickets",
+  "BasePath": "_content/api-bus-tickets",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
