@@ -33,3 +33,4 @@
 /Users/erickpaulgarciaramirez/Proyectos/api-bus-tickets/api-bus-tickets/obj/Debug/net9.0/api-bus-tickets.pdb
 /Users/erickpaulgarciaramirez/Proyectos/api-bus-tickets/api-bus-tickets/obj/Debug/net9.0/api-bus-tickets.genruntimeconfig.cache
 /Users/erickpaulgarciaramirez/Proyectos/api-bus-tickets/api-bus-tickets/obj/Debug/net9.0/ref/api-bus-tickets.dll
+/Users/erickpaulgarciaramirez/Proyectos/api-bus-tickets/api-bus-tickets/obj/Debug/net9.0/api-bus-tickets.sourcelink.json
